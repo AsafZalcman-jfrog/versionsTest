@@ -1,5 +1,5 @@
 package hello
 
 func Hello() string {
-    return "Hello v2.5.0 form bugfix123 branch"
+    return "Hello v2.5.0 from bugfix123 branch"
 }
